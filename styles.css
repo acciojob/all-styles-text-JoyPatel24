@@ -1,21 +1,14 @@
 .main {
   width: 200px;
   background-color: purple;
+	border-left-color: green;
 	border-left-width: 5px;
+	padding: 10px;
 }
 
-.main div {
-  /* border-left-width: 5px; */
-	border-left-color: rgb(0,128,0);
-  padding: 10px;
+.heading{
+	font-size: 20px;
+	color: white;
+	text-decoration: underline;
 }
-
-.container p {
-  font-size: 20px;
-}
-
-.container .main {
-  color: white;
-}
-
 /* Your CSS Code here. */
